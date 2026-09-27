@@ -19,3 +19,6 @@
 *.pid
 *.bin
 .DS_Store
+
+sdk/python/pacificdb.egg-info/
+vcpkg_installed/
